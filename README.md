@@ -2,9 +2,7 @@
 
 ref : https://github.com/nihalsoans91/Bag_to_Depth
 
-This code is usefull for grabbing RGB and depth data from BAG file of ros in python and C++
-
-The Python Code saves in both jpg and numpy pickle. Where as the C++ Code saves only in jpg
+This code extracts only pure depth from the bag file.
 
 ## What is needed
 - A good installation of ROS
